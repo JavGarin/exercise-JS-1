@@ -1,0 +1,24 @@
+.border-red {
+    border: 2px solid red;
+    
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.imagen-container {
+    margin-top: 25px;
+    padding: 0;
+}
